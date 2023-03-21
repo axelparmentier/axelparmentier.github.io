@@ -1,34 +1,59 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Baty":
+  - firstname: ["Léo", "L."]
+    url: https://batyleo.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Bayen":
+  - firstname: ["Alexandre", "A."]
+    url: https://bayen.berkeley.edu/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bouvier":
+  - firstname: ["Louis", "L."]
+    url: https://louisbouvier.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Cohen":
+  - firstname: ["Victor", "V."]
+    url: https://datascience.ch/team_member/victor-cohen/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"De Castro":
+  - firstname: ["Yohann", "Y."]
+    url: https://ydecastro.github.io/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Dalle":
+  - firstname: ["Guillaume", "G."]
+    url: https://gdalle.github.io/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Martinelli":
+  - firstname: ["Rafael", "R."]
+    url: https://scholar.google.com.br/citations?user=laD6L4sAAAAJ&hl=en
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Lübbecke":
+  - firstname: ["Marco", "Marco E.", "M."]
+    url: https://www.or.rwth-aachen.de/en/details-staff/luebbecke.html
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Meunier":
+  - firstname: ["Frédéric", "F."]
+    url: https://cermics.enpc.fr/~meuniefr/
+
+"Obozinski":
+  - firstname: ["Guillaume", "G."]
+    url: https://scholar.google.com/citations?user=8jAftjUAAAAJ&hl=fr
+
+"Salmon":
+  - firstname: ["Joseph", "J."]
+    url: http://josephsalmon.eu/
+
+"Samaranayake":
+  - firstname: ["Samitha", "S."]
+    url: https://cee.cornell.edu/samitha/
+
+"Schiffer":
+  - firstname: ["Maximilian", "M."]
+    url: https://www.ot.mgt.tum.de/osm/team/maximilian-schiffer/
+
+"T’Kindt":
+  - firstname: ["Vincent", "V."]
+    url: https://cv.hal.science/vincent-tkindt?langChosen=fr
+
+"Vidal":
+  - firstname: ["Thibaut", "T."]
+    url: https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html

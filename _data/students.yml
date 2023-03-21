@@ -1,0 +1,60 @@
+
+- title: Postdocs
+  type: time_table
+  contents:
+    - title: <a href="https://sites.google.com/view/tellacheneh/home">Nour Elhouda Tellache</a>
+      year: 2019-2021
+      institution: Ecole des Ponts - Air France
+
+- title: PhD students
+  type: time_table
+  contents:
+    - title: <a href="https://batyleo.github.io/"> Leo Baty</a>
+      year: 2022-now
+      description: won the <a href="https://euro-neurips-vrp-2022.challenges.ortec.com/">EURO NeurIPS VRP challenge 2022</a>
+      institution: Ecole des Ponts - Air France
+
+    - title:  <a href="https://louisbouvier.github.io/"> Louis Bouvier</a>
+      year: 2022-now
+      institution: Ecole des Ponts - Renault
+    - title:  <a href="https://conema.me/"> Emanuele Concas</a>
+      description: supervised with <a href="https://lipn.univ-paris13.fr/~wolfler/">Roberto Wolfler Calvo</a>
+      year: 2021-now
+      institution: Ecole des Ponts - Air France
+    - title:  <a href="http://cermics.enpc.fr/~dalleg/"> Guillaume Dalle</a>
+      description: supervised with <a href="https://ydecastro.github.io/">Yohann de Castro</a>. <a href="https://www.fondationdesponts.fr/prix-pasquet-guillaume-dalle/">Prix Pasquet 2021.</a> 
+      year: 2019-2022
+      institution: Ecole des Ponts - SNCF
+    - title:  <a href="http://cermics.enpc.fr/~deschase/"> Sébastien Deschamps</a> 
+      description: supervised with <a href="https://cermics.enpc.fr/~meuniefr/"> Frédéric Meunier </a> (<a href="students/thesis_SD.pdf">thesis</a>)  
+      year: 2018-2021
+      institution: Ecole des Ponts - Air France
+    - title: <a href= "http://cermics.enpc.fr/~cohenv/"> Victor Cohen</a>
+      description: supervised with <a href="https://cermics.enpc.fr/~meuniefr/"> Frédéric Meunier </a> (<a href="students/thesis_VC.pdf">thesis</a>) 
+      year: 2017-2020
+      institution: Ecole des Ponts - Air France
+
+- title: MSc students
+  type: time_table
+  contents:
+    - title: Prunelle Vogler
+      year: 2022
+    - title: Louis Bouvier
+      description: co-awarded ROADEF RO/AD Masters Thesis Prize (prelimnary to his PhD Thesis) 
+      year:  2021
+
+    - title: Ahmed Boughdiri 
+      year:  2021
+
+    - title: Jean-Charles Le 
+      year:  2020
+
+    - title: Leo Baty 
+      year:  2019
+
+    - title: <a href="https://ctl.mit.edu/about/bio/julie-poullet">Julie Poullet</a>
+      description: prix de stage de la fondation de l'X 
+      year:  2018
+
+    - title: Oscar Clivio 
+      year:  2017
