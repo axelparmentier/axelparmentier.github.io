@@ -27,7 +27,7 @@ I am a researcher and associate professor at Ecole des Ponts since 2016, where I
 
 My research lies at the interplay of operations research and machine learning. I develop theoretical results and practically efficient algorithms for data-driven combinatorial optimization problems. I have a strong taste for industrial applications, notably in the fields of air transportation, supply chain, and predictive maintenance. 
 
-In 2017, I won the dissertation award of the French agency for mathematics in interaction with business and society (AMIES), which rewards a contribution in applied mathematics with industrial applications. I recently received the Robert Faure price, which is awarded every three years by the French society of operations research (ROADEF) to a researcher under 35 for his contributions to the field. I animate the data, machine learning, and optimization axis of the French Operations Research group (http://gdrro.lip6.fr/?q=node/239 ).
+In 2017, I won the dissertation award of the French agency for mathematics in interaction with business and society (AMIES), which rewards a contribution in applied mathematics with industrial applications. I recently received the Robert Faure price, which is awarded every three years by the French society of operations research (ROADEF) to a researcher under 35 for his contributions to the field. I animate the data, machine learning, and optimization axis of the French Operations Research group (http://gdrro.lip6.fr/?q=node/239 ). 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
