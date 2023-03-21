@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Axel Parmentier
+    - name: Family
+      value: Married, three children
     - name: Languages
-      value: English, German
+      value: French, English
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher and associate professor (maître de conférence)
+      institution: <a href="https://cermics-lab.enpc.fr">CERMICS</a>, <a href="https://ecoledesponts.fr/">Ecole des Ponts</a>, Champs sur Marne, France
+      year: 2016-now
+    - title: PostDoc
+      institution: RWTH Aachen, Germany
+      year: 2016 
+      description: In <a href="https://www.or.rwth-aachen.de/en/details-staff/luebbecke.html">Marco Lübbecke</a>'s team
+    - title: Research intern
+      institution: University of California, Berkeley, California, US
+      year: 2012
+      description: In <a href="https://bayen.berkeley.edu/">Alexandre Bayen</a>'s team
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Ecole des Ponts, Université Paris Est, Champs sur Marne, France
+      year: 2013-2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
+        - Algorithms for shortest path and airline problems
+        - Under the supervision of <a href="https://cermics.enpc.fr/~meuniefr/">Frédéric Meunier</a>
+    - title: Master degree 
+      institution: <a href="https://uma.ensta-paris.fr/mpro/master2">MPRO</a> (Paris Master of Operations Research), Ecole des Ponts and Ecole Polytechnique, Paris, France
+      year: 2012-2013
+    - title: <a href="https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program">Cycle polytechnicien</a>, Engineer and Master degree
+      institution: Ecole Polytechnique, Palaiseau, France
+      year: 2009-2012
+      description: Advanced courses in Physics (Statistical Physics, Relativity theory, Quantum Mechanics), Economics (Micro and Macro), Mechanics, Mathematics (PDE, ODE), Applied Mathematics (Probability theory, Numeric Analysis, Statisitics), and Computer Science.
+    - title: French preparatory classes
+      instiution: Lycée Sainte Geneviève, Verstailles, France
+      year: 2007-2009
+      description: Intensive training in Mathematics and Physics to prepare for the french nation-wide competitive exam for the entrance in the "grandes écoles". 
+    
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/axelparmentier/InferOpt.jl">InferOpt</a>
+      year: 2022-now
+      description: Combinatorial optimization layers compatible with julia deep learning ecosystem
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://www.roadef.org/roadef-prix-robert-faure">Prix Robert Faure</a>, 1st prize (awarded every three years to a researcher under 35 years of age by the French Society of Operations Research)
+    - year: 2017
       items: 
-        - Max Planck Medal
+        - <a href="https://www.agence-maths-entreprises.fr/public/pages/activities/prix2these.html">AMIES PhD award</a>, 1st prize (best PhD in applied mathematics for the industry by the French agency for mathematics related to industry and society)
+    - year: 2016
+      items: 
+        - <a href="https://www.roadef.org/roadef-prix-meilleur-article-etudiant">ROADEF best student paper award</a>, 1st prize (PhD student award of the French Operations Research society)
 
-- title: Academic Interests
-  type: nested_list
+- title: Honors and awards won by students under my supervision
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2022
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Léo Baty won the <a href="https://euro-neurips-vrp-2022.challenges.ortec.com/">EURO NeurIPS VRP challenge 2022</a>
+        - Louis Bouvier won the <a href="https://www.roadef.org/article-news-roadef.php?id=135&title=Prix-master-RO/AD:-les-laureats">Prix Master RO/AD 2022 of the ROADEF</a>
+    - year: 2018
       items:
-        - Description 1.
-        - Description 2.
+        - Julie Poullet won the <a href="https://www.polytechnique.edu/fondation/les-missions/soutenir-linnovation-lentrepreneuriat-et-la-recherche/prix-du-stage-de-recherche">Prix du stage de recherche de la fondation de l'X 2018</a>
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - parenting, non-fiction books, cycling, mountain hiking, ski touring

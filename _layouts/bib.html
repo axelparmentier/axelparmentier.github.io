@@ -176,6 +176,12 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {% if entry.doi %}
+          <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}" class="btn btn-sm z-depth-0" role="button">DOI</a></span>
+          {% endif %}
+          {% if entry.hal %}
+          <span><a href="{{ entry.hal | prepend: 'http://hal.inria.fr/' }}" class="btn btn-sm z-depth-0" role="button">HAL</a></span>
+          {% endif %}
           </div>
 
           {% if entry.abstract -%}
