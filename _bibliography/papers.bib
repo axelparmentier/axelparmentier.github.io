@@ -236,7 +236,6 @@
   eprinttype = {arxiv},
   primaryclass = {cs, math},
   publisher = {{arXiv}},
-  doi = {10.48550/arXiv.2107.04323},
   abstract = {Machine learning pipelines that include a combinatorial optimization layer can give surprisingly efficient heuristics for difficult combinatorial optimization problems. Three questions remain open: which architecture should be used, how should the parameters of the machine learning model be learned, and what performance guarantees can we expect from the resulting algorithms? Following the intuitions of geometric deep learning, we explain why equivariant layers should be used when designing such pipelines, and illustrate how to build such layers on routing, scheduling, and network design applications. We introduce a learning approach that enables to learn such pipelines when the training set contains only instances of the difficult optimization problem and not their optimal solutions, and show its numerical performance on our three applications. Finally, using tools from statistical learning theory, we prove a theorem showing the convergence speed of the estimator. As a corollary, we obtain that, if an approximation algorithm can be encoded by the pipeline for some parametrization, then the learned pipeline will retain the approximation ratio guarantee. On our network design problem, our machine learning pipeline has the approximation ratio guarantee of the best approximation algorithm known and the numerical efficiency of the best heuristic.},
   archiveprefix = {arXiv},
   keywords = {Computer Science - Robotics,Mathematics - Optimization and Control},
@@ -343,6 +342,23 @@
   file = {/home/axel/zotero-library/Forel et al_2023_Explainable Data-Driven Optimization.pdf}
 }
 
+@misc{batyCombinatorialOptimizationEnriched2023,
+  title = {Combinatorial {{Optimization}} Enriched {{Machine Learning}} to Solve the {{Dynamic Vehicle Routing Problem}} with {{Time Windows}}},
+  author = {Baty, L{\'e}o and Jungel, Kai and Klein, Patrick S. and Parmentier, Axel and Schiffer, Maximilian},
+  year = {2023},
+  month = apr,
+  abbr = {Preprint},
+  arxiv = {2304.00789},
+  eprint = {arXiv:2304.00789},
+  publisher = {{arXiv}},
+  urldate = {2023-04-04},
+  abstract = {With the rise of e-commerce and increasing customer requirements, logistics service providers face a new complexity in their daily planning, mainly due to efficiently handling same day deliveries. Existing multi-stage stochastic optimization approaches that allow to solve the underlying dynamic vehicle routing problem are either computationally too expensive for an application in online settings, or -- in the case of reinforcement learning -- struggle to perform well on high-dimensional combinatorial problems. To mitigate these drawbacks, we propose a novel machine learning pipeline that incorporates a combinatorial optimization layer. We apply this general pipeline to a dynamic vehicle routing problem with dispatching waves, which was recently promoted in the EURO Meets NeurIPS Vehicle Routing Competition at NeurIPS 2022. Our methodology ranked first in this competition, outperforming all other approaches in solving the proposed dynamic vehicle routing problem. With this work, we provide a comprehensive numerical study that further highlights the efficacy and benefits of the proposed pipeline beyond the results achieved in the competition, e.g., by showcasing the robustness of the encoded policy against unseen instances and scenarios.},
+  archiveprefix = {arxiv},
+  keywords = {Electrical Engineering and Systems Science - Systems and Control,Mathematics - Optimization and Control,Statistics - Machine Learning},
+  file = {/home/axel/zotero-library/Baty et al_2023_Combinatorial Optimization enriched Machine Learning to solve the Dynamic.pdf;/home/axel/snap/zotero-snap/common/Zotero/storage/34R4K83B/2304.html}
+}
+
+
 @misc{parmentierStochasticShortestPaths2014,
   title = {Stochastic {{Shortest Paths}} and {{Risk Measures}}},
   author = {Parmentier, Axel and Meunier, Fr{\'e}d{\'e}ric},
@@ -376,7 +392,6 @@
   abstract = {This article presents a mathematical framework for modeling heterogeneous flow networks with a single source and multiple sinks with no merging. The traffic is differentiated by the destination (i.e. Lagrangian flow) and different flow groups are assumed to satisfy the first-in-first-out (FIFO) condition at each junction. The queuing in the network is assumed to be contained at each junction node and spill-back to the previous junction is ignored. We show that this model leads to a well-posed problem for computing the dynamics of the system and prove that the solution is unique through a mathematical derivation of the model properties. The framework is then used to analytically prescribe the delays at each junction of the network and across any sub-path, which is the main contribution of the article. This is a critical requirement when solving control and optimization problems over the network, such as system optimal network routing and solving for equilibrium behavior. In fact, the framework provides analytical expressions for the delay at any node or sub-path as a function of the inflow at any upstream node. Furthermore, the model can be solved numerically using a very simple and efficient feed forward algorithm. We demonstrate the versatility of the framework by applying it to two example networks, a single path of multiple bottlenecks and a diverge junction with complex junction dynamics.},
   langid = {english}
 }
-
 @inproceedings{samaranayakeSolvingUserEquilibrium2015,
   title = {Solving the User Equilibrium Departure Time Problem at an Off-Ramp with Incentive Compatible Cost Functions},
   booktitle = {2015 {{European Control Conference}} ({{ECC}})},
