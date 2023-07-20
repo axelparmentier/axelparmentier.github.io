@@ -2,6 +2,9 @@
 - title: Postdocs
   type: time_table
   contents:
+    - title <a href="https://www.researchgate.net/profile/Luca-Ferrarini-3">Luca Ferrarini</a>
+      year: 2023-now
+      institution: Ecole des Ponts
     - title: <a href="https://sites.google.com/view/tellacheneh/home">Nour Elhouda Tellache</a>
       year: 2019-2021
       institution: Ecole des Ponts - Air France
@@ -13,7 +16,6 @@
       year: 2022-now
       description: won the <a href="https://euro-neurips-vrp-2022.challenges.ortec.com/">EURO NeurIPS VRP challenge 2022</a>
       institution: Ecole des Ponts - Air France
-
     - title:  <a href="https://louisbouvier.github.io/"> Louis Bouvier</a>
       year: 2022-now
       institution: Ecole des Ponts - Renault
@@ -37,6 +39,8 @@
 - title: MSc students
   type: time_table
   contents:
+    - title: Mathis Brichet
+      year: 2022
     - title: Prunelle Vogler
       year: 2022
     - title: Louis Bouvier
