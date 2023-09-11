@@ -30,7 +30,10 @@
       year: 2021-now
       institution: Ecole des Ponts - Air France
     - title:  <a href="http://cermics.enpc.fr/~dalleg/"> Guillaume Dalle</a>
-      description: supervised with <a href="https://ydecastro.github.io/">Yohann de Castro</a>. <a href="https://www.fondationdesponts.fr/prix-pasquet-guillaume-dalle/">Prix Pasquet 2021.</a> 
+      description: 
+        - supervised with <a href="https://ydecastro.github.io/">Yohann de Castro</a> (<a href="https://pastel.hal.science/tel-04053322">thesis</a>)  
+        - <a href="https://www.fondationdesponts.fr/prix-pasquet-guillaume-dalle/">Prix Pasquet 2021</a>
+        - <a href="https://www.agence-maths-entreprises.fr/public/pages/activities/prix-de-these/prix2these-2023.html">Prix de thèse AMIES 2023</a>
       year: 2019-2022
       institution: Ecole des Ponts - SNCF
     - title:  <a href="http://cermics.enpc.fr/~deschase/"> Sébastien Deschamps</a> 
