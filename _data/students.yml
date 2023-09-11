@@ -1,16 +1,19 @@
 
-- title: Postdocs
+- title: Post-doctoral fellows
   type: time_table
   contents:
     - title: <a href=https://ysu1028.github.io/>Yue Su</a>
       year: 2023-now
       institution: Ecole des Ponts
+      description: on a project with <a href="https://www.insead.edu/faculty/antoine-desir"> Antoine Désir </a>
     - title: <a href="https://www.researchgate.net/profile/Luca-Ferrarini-3">Luca Ferrarini</a>
       year: 2023-now
       institution: Ecole des Ponts
+      description: on a project with <a href="https://ivanaljubic.github.io/"> Ivana Ljubic </a>
     - title: <a href="https://sites.google.com/view/tellacheneh/home">Nour Elhouda Tellache</a>
       year: 2019-2021
       institution: Ecole des Ponts - Air France
+      description: on a project with <a href="https://cermics.enpc.fr/~meuniefr/"> Frédéric Meunier </a>
 
 - title: PhD students
   type: time_table
