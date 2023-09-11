@@ -1,6 +1,6 @@
 ---
 layout: students
-title: Students
+title: Post-doctoral fellows, PhD students, and other students
 permalink: /students/
 nav: true
 nav_order: 3
