@@ -67,6 +67,9 @@
 - title: Honors and awards won by students under my supervision
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Guillaume Dalle won the <a href="https://www.agence-maths-entreprises.fr/public/pages/activities/prix-de-these/prix2these-2023.html">AMIES PhD award</a>, 1st prize (best PhD in applied mathematics for the industry by the French agency for mathematics related to industry and society)
     - year: 2022
       items: 
         - Léo Baty won the <a href="https://euro-neurips-vrp-2022.challenges.ortec.com/">EURO NeurIPS VRP challenge 2022</a>
