@@ -24,23 +24,23 @@ Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis buildin
 
 9:30-11:00 Talks
 
-- Tobias Sutter
-- Jérôme Malick
+- Tobias Sutter (University of Konstanz)
+- Jérôme Malick (University Grenoble Alps)
 
 11:00-11:30 Coffee
 
 11:30-13:00 Talks
-- Maximilian and Axel. *Joint talk on Combinatorial Optimization Enriched Machine Learning to Solve Dynamic Vehicle Routing Problems*
-- Louis Bouvier
-- Tobias Enders
+- Maximilian Schiffer (Technische Universität München) and Axel Parmentier (École des Ponts). Joint talk on *Combinatorial Optimization Enriched Machine Learning to Solve Dynamic Vehicle Routing Problems*
+- Louis Bouvier (École des Ponts)
+- Tobias Enders (Technische Universität München)
 
 <!-- 3rd student / Max and Axel joint talk -->
 
 13:00-14:30 Lunch
 
 14:30-16:00 Talks
- - Mathieu Blondel. *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.*
- - Dario Paccagnan
+ - Mathieu Blondel (Google) *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.*
+ - Dario Paccagnan (Imperial College)
  <!-- 4th professor / Max and Axel joint talk -->
 
 16:00-16:30 Coffee
