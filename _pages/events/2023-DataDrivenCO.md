@@ -24,7 +24,7 @@ Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis buildin
 
 9:30-11:00 Talks
 
-- Tobias Sutter (University of Konstanz)
+- Tobias Sutter (University of Konstanz) *Data-driven distributionally robust optimization: Classification of ambiguity sets.*
 - Jérôme Malick (University Grenoble Alps)
 
 11:00-11:30 Coffee
@@ -40,7 +40,7 @@ Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis buildin
 
 14:30-16:00 Talks
  - Mathieu Blondel (Google) *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.*
- - Dario Paccagnan (Imperial College)
+ - Dario Paccagnan (Imperial College) *The Pick-to-Learn Algorithm: Empowering Compression for Tight Generalization Bounds and Improved Post-training Performance.*
  <!-- 4th professor / Max and Axel joint talk -->
 
 16:00-16:30 Coffee
