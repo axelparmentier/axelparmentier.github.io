@@ -39,7 +39,7 @@ Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis buildin
 13:00-14:30 Lunch
 
 14:30-16:00 Talks
- - Mathieu Blondel
+ - Mathieu Blondel. *Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.*
  - Dario Paccagnan
  <!-- 4th professor / Max and Axel joint talk -->
 
