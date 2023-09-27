@@ -30,8 +30,8 @@ Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis buildin
 11:00-11:30 Coffee
 
 11:30-13:00 Talks
-- Maximilian Schiffer (Technische Universität München) and Axel Parmentier (École des Ponts). Joint talk on *Combinatorial Optimization Enriched Machine Learning to Solve Dynamic Vehicle Routing Problems*
-- Louis Bouvier (École des Ponts)
+- Maximilian Schiffer (Technische Universität München) and Axel Parmentier (École des Ponts). Joint talk on *Combinatorial Optimization Enriched Machine Learning to Solve Dynamic Vehicle Routing Problems.*
+- Louis Bouvier (École des Ponts). *InferOpt: A julia package for combinatorial optimization layers in neural networks.*
 - Tobias Enders (Technische Universität München)
 
 <!-- 3rd student / Max and Axel joint talk -->
