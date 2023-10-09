@@ -24,8 +24,8 @@ Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis buildin
 
 9:30-11:00 Talks
 
-- Tobias Sutter (University of Konstanz) *Data-driven distributionally robust optimization: Classification of ambiguity sets.* [Slides](/assets/pdf/2023-DataDrivenCO/TS.pdf)
-- Jérôme Malick (University Grenoble Alps) *Wasserstein distributionally robust optimization in action.*
+- Tobias Sutter (University of Konstanz) *Data-driven distributionally robust optimization: Classification of ambiguity sets.* [Slides.](/assets/pdf/2023-DataDrivenCO/TS.pdf)
+- Jérôme Malick (University Grenoble Alps) *Wasserstein distributionally robust optimization in action.* [Slides.](https://membres-ljk.imag.fr/Jerome.Malick/Talks/23-paris.pdf)
 
 11:00-11:30 Coffee
 
