@@ -51,9 +51,18 @@
       year: 2017-2020
       institution: Ecole des Ponts - Air France
 
+- title: Visiting students
+  type: time_table
+  contents:
+    - title: <a href="https://ieor.columbia.edu/content/cherlin-zhu">Cherlin Zhu</a>
+      year: 2024
+      description: PhD student supervised by <a href="https://ericbalkanski.com/">Éric Balkanski</a>
+
 - title: MSc students
   type: time_table
   contents:
+    - title: Germain Vivier-Ardisson
+      year: 2024
     - title: Letizia Moro
       year: 2024
     - title: <a href="https://www.linkedin.com/in/mathis-brichet-5a613b200"> Mathis Brichet</a>
