@@ -21,3 +21,5 @@ I receive a huge amount of e-mails every day. While I do my best to respond to a
 
 2. [I have a question regarding one of your lectures / my grade](/faq/questionOnLectures/)
 3. [I am one of your students and I need a recommendation letter](/faq/recommendationLetter/)
+4. [I am one of your students and I need help to find an internship in OR](/faq/internshipInOR/)
+4. [I am one of your students and I need help to find an PhD in OR](/faq/PhDInOR/)
