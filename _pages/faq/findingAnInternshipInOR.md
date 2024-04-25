@@ -24,7 +24,7 @@ There are several kinds of OR jobs in the industry
 
 There are basically three kinds of internships in academia.
 
-- *On an application*. You are working on an application of OR. At first sight, it may look like a job in the industry (except solver company), but the focus is completely different. On most internships in the industry, the mathematical aspects are not the key: you spend at most 10% of your time doing maths. If you work on applied problem from the industry in academia, it is because it has been identified as difficult in the industry, and you have to innovate on the maths to make it work. Be prepared to do maths 90% of your time.
+- *On an application*. You are working on an application of OR. At first sight, it may look like a job in the industry (except solver company), but the focus is completely different. On most internships in the industry, the mathematical aspects are not the key: you spend at most 10% of your time doing math. If you work on applied problem from the industry in academia, it is because it has been identified as difficult in the industry, and you have to innovate on the math to make it work. Be prepared to do math 90% of your time.
 - *Methodological*. You want to prove theorems to build new algorithms that work well in practice, and implement these algorithms.
 - *Theoretical*. You want to prove theorems.
 
@@ -37,7 +37,7 @@ Internship offers are available
 
 and on all the usual venues for finding a job.
 
-## Can you help me find an internship
+## How I can help you
 
 I help at least 10 students a year finding an internship
 

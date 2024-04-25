@@ -25,11 +25,11 @@ PhD offers in France are available
 - On the forum of the [Roadef](https://www.roadef.org/societe-francaise-recherche-operationnelle-aide-decision), the French Operations Research society.
 - Posted on the mailing list of the [GDR ROD](http://gdrro.lip6.fr/?q=node/24)
 
-and on all the usual venues for finding a job. Abroad, offers are generally available on maths/computer science departments PhD programs.
+and on all the usual venues for finding a job. Abroad, offers are generally available on math/computer science departments PhD programs.
 
-## Can you help me find an internship
+## How I can help you
 
-I try to help every students of École des Ponts who wants to do a PhD in OR - and worked reasonably hard on my lectures !
+I try to help every student of École des Ponts who wants to do a PhD in OR - and worked reasonably hard on my lectures !
 
 Please write me an email **structured as follows**
 

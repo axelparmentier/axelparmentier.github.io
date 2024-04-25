@@ -8,18 +8,26 @@ nav_order: 5
 horizontal: false
 ---
 
-I receive a huge amount of e-mails every day. While I do my best to respond to all of them, I appreciate if you first check the most frequently asked questions below that may save both of us some time and e-mails.
+I receive many emails every day. While I do my best to respond to all of them, I would appreciate it if you could first check the frequently asked questions below, which may save both of us some time and emails.
 
-## I want to join your research group
+## Joining my research group
 
-1. [I am an undergrad / master student interested in joining your group for an internship](/faq/joiningForAnInternship/)
-2. [How can I apply for a PhD position in your group](/faq/PhDapplication/)
-3. [How can I apply for a postdoc position in your group](/faq/PostdocApplication/)
+1. [Applying for an undergrad/master internship](/faq/joiningForAnInternship/)
+2. [Applying for a PhD position in my group](/faq/PhDapplication/)
+3. [Applying for a postdoc position in my group](/faq/PostdocApplication/)
 
+## Students at École des Ponts or at MPRO
 
-## I am a student at Ecole des Ponts or at MPRO
+You are one of my (former) student following my lectures at École des Ponts / MPRO and
 
-2. [I have a question regarding one of your lectures / my grade](/faq/questionOnLectures/)
-3. [I am one of your students and I need a recommendation letter](/faq/recommendationLetter/)
-4. [I am one of your students and I need help to find an internship in OR](/faq/internshipInOR/)
-4. [I am one of your students and I need help to find an PhD in OR](/faq/PhDInOR/)
+1. [have a question regarding one of my lectures / your grade](/faq/questionOnLectures/)
+2. [need a recommendation letter](/faq/recommendationLetter/)
+3. [need help/advice to find an internship in OR](/faq/internshipInOR/)
+4. [need help/advice to find a PhD in OR](/faq/PhDInOR/)
+
+## Industry / Business / Startup
+
+1. [Advices on your startup](/faq/startup/)
+2. [Advices/collaborating on a research project in your company](/faq/industry/)
+3. [Recruiting an intern from École des Ponts](/faq/recruitingIntern/)
+4. [Sponsoring the KIRO, the OR hackathon of École des Ponts' students](/faq/KIRO/)
