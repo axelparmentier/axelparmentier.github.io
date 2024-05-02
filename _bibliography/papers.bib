@@ -127,7 +127,7 @@
   shorttitle = {Don't {{Explain Noise}}},
   author = {Forel, Alexandre and Parmentier, Axel and Vidal, Thibaut},
   year = {2024},
-  month = sep,
+  month = may,
   number = {arXiv:2205.14116},
   eprint = {2205.14116},
   arxiv = {arxiv},
@@ -331,12 +331,24 @@
   keywords = {68T37(Primary); 90-10 (Secondary),Computer Science - Machine Learning,I.2.8,Mathematics - Optimization and Control}
 }
 
-@misc{demelas2023predicting,
+@article{ardisson2024cfopt,
+      title={CF-OPT: Counterfactual Explanations for Structured Prediction}, 
+      author={Vivier-Ardisson, Germain and Forel, Alexandre and Parmentier, Axel and Vidal, Thibaut},
+        year = {2024},
+        month = jul,
+        abbr = {Proceedings},
+        journal = {Accepted at the 41st {{International Conference}} on {{Machine Learning}}},
+        publisher = {{PMLR}}
+}
+
+@article{demelas2023predicting,
       title={Predicting Accurate Lagrangian Multipliers for Mixed Integer Linear Programs}, 
       author={Francesco Demelas and Joseph Le Roux and Mathieu Lacroix and Axel Parmentier},
-      abbr = {Preprint},
-      year={2023},
-      month=oct,
+        year = {2024},
+        month = jul,
+        abbr = {Proceedings},
+        journal = {Accepted at the 41st {{International Conference}} on {{Machine Learning}}},
+        publisher = {{PMLR}},
       abstract = {Lagrangian relaxation stands among the most efficient approaches for solving a Mixed Integer Linear Programs (MILP) with difficult constraints. Given any duals for these constraints, called Lagrangian Multipliers (LMs), it returns a bound on the optimal value of the MILP, and Lagrangian methods seek the LMs giving the best such bound. But these methods generally rely on iterative algorithms resembling gradient descent to maximize the concave piecewise linear dual function: the computational burden grows quickly with the number of relaxed constraints. We introduce a deep learning approach that bypasses the descent, effectively amortizing the local, per instance, optimization. A probabilistic encoder based on a graph convolutional network computes high-dimensional representations of relaxed constraints in MILP instances. A decoder then turns these representations into LMs. We train the encoder and decoder jointly by directly optimizing the bound obtained from the predicted multipliers. Numerical experiments show that our approach closes up to 85\textasciitilde\textbackslash\% of the gap between the continuous relaxation and the best Lagrangian bound, and provides a high quality warm-start for descent based Lagrangian methods.},
       arxiv={2310.14659},
       primaryClass={cs.LG}
