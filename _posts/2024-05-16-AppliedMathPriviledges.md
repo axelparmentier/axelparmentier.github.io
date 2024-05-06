@@ -27,7 +27,7 @@ Applied mathematicians are, therefore, not just scholars of abstract concepts; t
 
 ## Operational Research and economic applications
 
-Operational research focuses modeling and optimizing economical and industrial processes. It applies the tools of applied mathematics to decode the economic world, and address socio-economic and ecological challenges.
+Operational research focuses modeling and optimizing economical and industrial processes. [It applies the tools of applied mathematics to decode the economic world, and address socio-economic and ecological challenges](/blog/2024/ORmodern/).
 Contrarily to economists, we do not want to debate on what should be the rules. 
 Operational researchers use mathematical rigor to develop algorithms that take the best possible decisions effectively on a large scale given these rules. 
 These algorithms are designed to capture the full complexity of real-world scenarios, providing more accurate and actionable insights.
