@@ -7,11 +7,11 @@ tags: Applied Mathematics, Operations Research, Philosophy
 categories: opinion
 ---
 
-Fifteen years ago, in the rigorous setting of a preparatory class [^1], a friend challenged my perception of our studies. He argued that the mathematics we were delving into did not encompass his intellectual and spiritual [^2] life. At the time, I disagreed, yet I found myself unable to articulate the profound connection I sensed between our mathematical endeavors and the broader intellectual realms.
+Fifteen years ago, in the rigorous setting of a preparatory class [^1], a friend challenged my perception of our studies. He argued that the mathematics we were delving into did not encompass his intellectual and spiritual [^2] life. At the time, I disagreed, yet I found myself unable to articulate the connection I sensed between our mathematical endeavors and the broader intellectual realms.
 
-Today, as a professional applied mathematician, I have found the words that eluded me then. Mathematics, I have come to realize, is not just a tool for solving problems but a gateway to understanding the universe. It is a source of joy that goes beyond the boundaries of professional work.
+Today, as a professional applied mathematician, I have found the words that eluded me then. Mathematics, I have come to realize, is not just a tool for solving problems but a gateway to understanding other fields of knowledge. It is a source of joy that goes beyond the boundaries of professional work.
 
-This post is not a boastful declaration but an exploration of the profound satisfaction one can experience in the profession of mathematics. It is a tribute to the perks that come with being a mathematician. While describing what I enjoy in the job, I am acutely aware of the potential for confirmation bias justifying my career choice. Yet, this self-awareness does not diminish the genuine joy I find in my work.
+This post is not a boastful declaration but an exploration of the satisfaction one can experience in the profession of mathematics. It is a description of the perks that come with being a mathematician. While describing what I enjoy in the job, I am aware of the potential for confirmation bias justifying my career choice. Yet, this self-awareness does not diminish the joy I find in my work.
 
 ## Mathematics as the language of science
 
@@ -23,7 +23,7 @@ In that, we perhaps inherit a small part of the universal thinkers of yesterday,
 
 One of the key distinctions in the field of mathematics is between pure mathematicians and applied mathematicians. While pure mathematicians are driven by the intrinsic beauty and complexity of mathematics itself, applied mathematicians harness mathematical tools not to study mathematics for its own sake, but to model the world around us. This modeling approach is arguably the most advanced technique in human endeavors, allowing for a logical and effective understanding of the world, and the ability to construct tangible outcomes based on this understanding [^3].
 
-Applied mathematicians are, therefore, not just scholars of abstract concepts; they are the architects of models that mirror reality. Their work translates into the design of systems, the optimization of processes, and the prediction of outcomes, which are essential in various industries and sectors. The perk of being an applied mathematician lies in the ability to apply theoretical knowledge to practical problems, bridging the gap between the world of ideas and the world of human experience.
+Applied mathematicians are, therefore, not just scholars of abstract concepts; they are the architects of models that mirror reality. Their work translates into the design of systems, the optimization of processes, and the prediction of outcomes, which are essential in various industries and sectors. A perk of being an applied mathematician lies in the ability to apply theoretical knowledge to practical problems, bridging the gap between the world of ideas and the world of human experience.
 
 ## Operational Research and economic applications
 
@@ -32,7 +32,7 @@ Contrarily to economists, we do not want to debate on what should be the rules.
 Operational researchers use mathematical rigor to develop algorithms that take the best possible decisions effectively on a large scale given these rules. 
 These algorithms are designed to capture the full complexity of real-world scenarios, providing more accurate and actionable insights.
 
-Therefore, the field of operational research exposes practitioners to a wide array of industrial sectors, offering a rich tapestry of professional interests and opportunities. This breadth of exposure allows operational researchers to understand and appreciate the nuances of numerous professions, enhancing their ability to make a meaningful impact across various industries.
+Therefore, the field of operational research exposes practitioners to a wide array of industrial sectors, offering a rich tapestry of professional interests and opportunities. This breadth of exposure allows operational researchers to discover and appreciate the nuances of numerous professions.
 
 ## Individual simplicity amidst collective wealth
 
