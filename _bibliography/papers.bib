@@ -129,13 +129,12 @@
   year = {2024},
   month = may,
   number = {arXiv:2205.14116},
-  eprint = {2205.14116},
-  arxiv = {arxiv},
+  arxiv = {2205.14116},
   abbr = {Proceedings},
   journal = {Proceedings of 21st International Conference on the Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming (CPAIOR 2024)},
   primaryclass = {cs, math},
   publisher = {{arXiv}},
-  doi = {10.48550/arXiv.2205.14116},
+  doi = {https://doi.org/10.1007/978-3-031-60597-0_19},
   abstract = {Counterfactual explanations describe how to modify a feature vector in order to flip the outcome of a trained classifier. Obtaining robust counterfactual explanations is essential to provide valid algorithmic recourse and meaningful explanations. We study the robustness of explanations of randomized ensembles, which are always subject to algorithmic uncertainty even when the training data is fixed. We formalize the generation of robust counterfactual explanations as a probabilistic problem and show the link between the robustness of ensemble models and the robustness of base learners. We develop a practical method with good empirical performance and support it with theoretical guarantees for ensembles of convex base learners. Our results show that existing methods give surprisingly low robustness: the validity of naive counterfactuals is below \$50\textbackslash\%\$ on most data sets and can fall to \$20\textbackslash\%\$ on problems with many features. In contrast, our method achieves high robustness with only a small increase in the distance from counterfactual explanations to their initial observations.},
   archiveprefix = {arXiv},
   keywords = {Computer Science - Machine Learning,Mathematics - Optimization and Control},
@@ -143,22 +142,24 @@
 }
 
 @article{parmentierElectricVehicleFleets2023,
-  title = {Electric {{Vehicle Fleets}}: {{Scalable Route}} and {{Recharge Scheduling}} through {{Column Generation}}},
+  title = {Electric {{Vehicle Fleets}}: {{Scalable Route}} and {{Recharge Scheduling Through Column Generation}}},
   shorttitle = {Electric {{Vehicle Fleets}}},
   author = {Parmentier, Axel and Martinelli, Rafael and Vidal, Thibaut},
   year = {2023},
-  month = feb,
-  journal = {Transportation Science, in press},
+  month = mar,
+  journal = {Transportation Science},
   abbr = {Article},
   arxiv = {2104.03823},
   code = {https://github.com/axelparmentier/ElectricalVSP-ColumnGeneration},
-  primaryclass = {math},
-  publisher = {{arXiv}},
-  doi = {10.48550/arXiv.2104.03823},
-  abstract = {The rise of battery-powered vehicles has led to many new technical and methodological hurdles. Among these, the efficient planning of an electric fleet to fulfill passenger transportation requests still represents a major challenge. This is due to the specific constraints of electric vehicles, bound by their battery autonomy and necessity of recharge planning, and the large scale of the operations, which challenges existing optimization algorithms. The purpose of this paper is to introduce a scalable column generation approach for routing and scheduling in this context. Our algorithm relies on four main ingredients: (i) a multigraph reformulation of the problem based on a characterization of non-dominated charging arcs, (ii) an efficient bi-directional pricing algorithm using tight backward bounds, (iii) sparsification approaches permitting to decrease the size of the subjacent graphs dramatically, and (iv) a diving heuristic, which locates near-optimal solutions in a fraction of the time needed for a complete branch-and-price. Through extensive computational experiments, we demonstrate that our approach significantly outperforms previous algorithms for this setting, leading to accurate solutions for problems counting several hundreds of requests.},
-  archiveprefix = {arXiv},
-  keywords = {Mathematics - Optimization and Control},
+  publisher = {INFORMS},
+  issn = {0041-1655},
+  doi = {10.1287/trsc.2023.1199},
+  urldate = {2023-03-21},
+  abstract = {The rise of battery-powered vehicles has led to many new technical and methodological hurdles. Among these, the efficient planning of an electric fleet to fulfill passenger transportation requests still represents a major challenge. This is because of the specific constraints of electric vehicles, bound by their battery autonomy and necessity of recharge planning, and the large scale of the operations, which challenges existing optimization algorithms. The purpose of this paper is to introduce a scalable column generation approach for routing and scheduling in this context. Our algorithm relies on four main ingredients: (i) a multigraph reformulation of the problem based on a characterization of nondominated charging arcs, (ii) an efficient bidirectional pricing algorithm using tight backward bounds, (iii) sparsification approaches permitting to decrease the size of the subjacent graphs dramatically, and (iv) a diving heuristic, which locates near-optimal solutions in a fraction of the time needed for a complete branch-and-price. Through extensive computational experiments, we demonstrate that our approach significantly outperforms previous algorithms for this setting, leading to accurate solutions for problems counting several hundreds of requests. Funding: This work was supported by Conselho Nacional de Desenvolvimento Cient{\'i}fico e Tecnol{\'o}gico [Grants 08528/2018-2 and 315361/2020-4], Coordena{\c c}{\~a}o de Aperfei{\c c}oamento de Pessoal de N{\'i}vel Superior [Finance Code 001], and Funda{\c c}{\~a}o Carlos Chagas Filho de Amparo {\`a} Pesquisa do Estado do Rio de Janeiro [Grants E-26/010.002232/2019 and E-26/202.790/2019]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/trsc.2023.1199.},
+  keywords = {column generation,diving heuristics,electric vehicles,routing and scheduling},
+  file = {/home/axel/zotero-library/Parmentier et al_2023_Electric Vehicle Fleets2.pdf}
 }
+
 
 @misc{cohenLinearProgrammingDecision2019,
   title = {Linear {{Programming}} for {{Decision Processes}} with {{Partial Information}}},
@@ -279,21 +280,21 @@
   annotation = {ZSCC: 0000000},
 }
 
-@article{tellacheLinearLexicographicOptimization2022,
-  title = {Linear Lexicographic Optimization and Preferential Bidding System},
+@article{tellacheLinearLexicographicOptimization2024,
+  title = {Linear {{Lexicographic Optimization}} and {{Preferential Bidding System}}},
   author = {Tellache, Nour ElHouda and Meunier, Fr{\'e}d{\'e}ric and Parmentier, Axel},
-  year = {2023},
-  month = dec,
+  year = {2024},
+  month = mar,
   arxiv = {2201.08907},
+  journal = {Transportation Science},
+  publisher = {INFORMS},
   abbr = {Article},
-  journal = {Transportation Science, in press},
-  eprinttype = {arxiv},
-  primaryclass = {math},
-  abstract = {This paper addresses the construction of the pilots' schedules under the preferential bidding system in the airline industry. In this system, the pilots bid on the different activities and the airline constructs the schedules that maximize the scores of the pilots lexicographically: the most senior is served first, then the second one, etc. A sequential approach to solve this problem is natural, and actually quite common: the problem is first solved with the bids of the most senior pilot in the objective function; then it is solved with those of the second most senior without decreasing the score of the most senior, and so on. Each step often involves column generation, requires solving an integer program, and usually takes into account the possible schedules of the less senior crew members approximately, which might compel to time-consuming backtrackings. The known existing exact method for this problem follows the sequential approach. The literature commonly admits that the structure of the problems somehow imposes such an approach.},
-  archiveprefix = {arXiv},
-  langid = {english},
-  keywords = {90B05; 90B06; 90B50,Mathematics - Optimization and Control},
+  issn = {0041-1655},
+  doi = {10.1287/trsc.2022.0372},
+  urldate = {2024-05-02},
+  abstract = {Some airlines use the preferential bidding system to construct the schedules of their pilots. In this system, the pilots bid on the different activities and the schedules that lexicographically maximize the scores of the pilots according to their seniority are selected. A sequential approach to solve this maximization problem is natural: The problem is first solved with the bids of the most senior pilot, and then it is solved with those of the second most senior without decreasing the score of the most senior, and so on. The literature admits that the structure of the problem somehow imposes such an approach. The problem can be modeled as an integer linear lexicographic program. We propose a new efficient method, which relies on column generation for solving its continuous relaxation and returns proven optimality gaps. To design this column generation, we prove that bounded linear lexicographic programs admit ``primal-dual'' feasible bases, and we show how to compute such bases efficiently. Another contribution on which our method relies is the extension of standard tools for resource-constrained longest path problems to their lexicographic versions. This is useful in our context because the generation of new columns is modeled as a lexicographic resource-constrained longest path problem. Numerical experiments show that this new method is already able to solve to proven optimality industrial instances provided by Air France, with up to 150 pilots. By adding a last ingredient in the resolution of the longest path problems, which exploits the specificity of the preferential bidding system, the method achieves for these instances computational times that are compatible with operational constraints. Supplemental Material: The online appendix is available at https://doi.org/10.1287/trsc.2022.0372.}
 }
+
 
 @misc{jungelLearningbasedOnlineOptimization2023,
   title = {Learning-Based {{Online Optimization}} for {{Autonomous Mobility-on-Demand Fleet Control}}},
@@ -369,23 +370,21 @@
   keywords = {Mathematics - Optimization and Control}
 }
 
-
-@article{batyCombinatorialOptimizationEnriched2023,
-  title = {Combinatorial {{Optimization}} Enriched {{Machine Learning}} to Solve the {{Dynamic Vehicle Routing Problem}} with {{Time Windows}}},
+@article{batyCombinatorialOptimizationEnrichedMachine2024,
+  title = {Combinatorial {{Optimization-Enriched Machine Learning}} to {{Solve}} the {{Dynamic Vehicle Routing Problem}} with {{Time Windows}}},
   author = {Baty, L{\'e}o and Jungel, Kai and Klein, Patrick S. and Parmentier, Axel and Schiffer, Maximilian},
-  year = {2023},
-  month = dec,
-  journal = {Transportation Science, in press},
+  year = {2024},
+  month = feb,
+  journal = {Transportation Science},
+  publisher = {INFORMS},
+  doi = {10.1287/trsc.2023.0107},
+  code = {https://github.com/tumBAIS/euro-meets-neurips-2022},
+  urldate = {2024-03-29},
+  abstract = {With the rise of e-commerce and increasing customer requirements, logistics service providers face a new complexity in their daily planning, mainly due to efficiently handling same day deliveries. Existing multi-stage stochastic optimization approaches that allow to solve the underlying dynamic vehicle routing problem are either computationally too expensive for an application in online settings, or -- in the case of reinforcement learning -- struggle to perform well on high-dimensional combinatorial problems. To mitigate these drawbacks, we propose a novel machine learning pipeline that incorporates a combinatorial optimization layer. We apply this general pipeline to a dynamic vehicle routing problem with dispatching waves, which was recently promoted in the EURO Meets NeurIPS Vehicle Routing Competition at NeurIPS 2022. Our methodology ranked first in this competition, outperforming all other approaches in solving the proposed dynamic vehicle routing problem. With this work, we provide a comprehensive numerical study that further highlights the efficacy and benefits of the proposed pipeline beyond the results achieved in the competition, e.g., by showcasing the robustness of the encoded policy against unseen instances and scenarios.},
   abbr = {Article},
   arxiv = {2304.00789},
-  eprint = {arXiv:2304.00789},
-  publisher = {{arXiv}},
-  urldate = {2023-04-04},
-  abstract = {With the rise of e-commerce and increasing customer requirements, logistics service providers face a new complexity in their daily planning, mainly due to efficiently handling same day deliveries. Existing multi-stage stochastic optimization approaches that allow to solve the underlying dynamic vehicle routing problem are either computationally too expensive for an application in online settings, or -- in the case of reinforcement learning -- struggle to perform well on high-dimensional combinatorial problems. To mitigate these drawbacks, we propose a novel machine learning pipeline that incorporates a combinatorial optimization layer. We apply this general pipeline to a dynamic vehicle routing problem with dispatching waves, which was recently promoted in the EURO Meets NeurIPS Vehicle Routing Competition at NeurIPS 2022. Our methodology ranked first in this competition, outperforming all other approaches in solving the proposed dynamic vehicle routing problem. With this work, we provide a comprehensive numerical study that further highlights the efficacy and benefits of the proposed pipeline beyond the results achieved in the competition, e.g., by showcasing the robustness of the encoded policy against unseen instances and scenarios.},
-  archiveprefix = {arxiv},
-  keywords = {Electrical Engineering and Systems Science - Systems and Control,Mathematics - Optimization and Control,Statistics - Machine Learning},
-  file = {/home/axel/zotero-library/Baty et al_2023_Combinatorial Optimization enriched Machine Learning to solve the Dynamic.pdf;/home/axel/snap/zotero-snap/common/Zotero/storage/34R4K83B/2304.html}
 }
+
 
 
 @misc{parmentierStochasticShortestPaths2014,
@@ -433,20 +432,23 @@
   abstract = {We consider the equilibrium departure time problem for a set of vehicles that travel through a network with capacity restrictions and need to reach a destination at a fixed time. The vehicles incur a penalty for both any queuing delays and arriving at the destination early or late. In particular, we consider the case of a congested off-ramp, which is a common occurrence next to commercial hubs during the morning commute, and has the added negative effect of reducing the capacity on the freeway for through traffic. We study the use of incentives and tolls to manipulate the equilibrium departure times of the exiting vehicles and thereby mitigate the impact on through traffic. Our main result is to show the existence and uniqueness properties of the departure time equilibrium for a general class of delay and arrival time cost functions, which allows for discontinuities in the arrival cost function. This enables the use of step incentives or tolls, which are the mostly common strategies used in practice. Our results also apply to the Vickrey single bottleneck equilibrium, which is a special case of our network.},
   keywords = {Analytical models,Cost function,Delays,Schedules,Traffic control,Vehicles}
 }
-
-@article{bouvierSolvingContinentScaleInventory2022,
+@article{bouvierSolvingContinentScaleInventory2024,
   title = {Solving a {{Continent-Scale Inventory Routing Problem}} at {{Renault}}},
   author = {Bouvier, Louis and Dalle, Guillaume and Parmentier, Axel and Vidal, Thibaut},
-  year = {2023},
-  month = oct,
-  arxiv = {2209.00412},
-  publisher = {{arXiv}},
-  urldate = {2023-03-21},
-  abbr = {Article},
+  year = {2024},
+  month = jan,
+  journal = {Transportation Science},
+  volume = {58},
+  number = {1},
+  pages = {131--151},
+  publisher = {INFORMS},
+  issn = {0041-1655},
   doi = {10.1287/trsc.2022.0342},
-  journal = {Transportation Science, in press},
-  code = {https://github.com/LouisBouvier/InventoryRoutingLNS.jl},
-  abstract = {This paper is the fruit of a partnership with Renault. Their backward logistic requires to solve a continent-scale multi-attribute inventory routing problem (IRP). With an average of 30 commodities, 16 depots, and 600 customers spread across a continent, our instances are orders of magnitude larger than those in the literature. Existing algorithms do not scale. We propose a large neighborhood search (LNS). To make it work, (1) we generalize existing split delivery vehicle routing problem and IRP neighborhoods to this context, (2) we turn a state-of-the art matheuristic for medium-scale IRP into a large neighborhood, and (3) we introduce two novel perturbations: the reinsertion of a customer and that of a commodity into the IRP solution. We also derive a new lower bound based on a flow relaxation. In order to stimulate the research on large-scale IRP, we introduce a library of industrial instances. We benchmark our algorithms on these instances and make our code open-source. Extensive numerical experiments highlight the relevance of each component of our LNS.},
-  keywords = {Mathematics - Optimization and Control},
+  urldate = {2024-05-02},
+  abstract = {This paper is the fruit of a partnership with Renault. Their reverse logistic requires solving a continent-scale multiattribute inventory routing problem (IRP). With an average of 30 commodities, 16 depots, and 600 customers spread across a continent, our instances are orders of magnitude larger than those in the literature. Existing algorithms do not scale, so we propose a large neighborhood search (LNS). To make it work, (1) we generalize existing split delivery vehicle routing problems and IRP neighborhoods to this context, (2) we turn a state-of-the-art matheuristic for medium-scale IRP into a large neighborhood, and (3) we introduce two novel perturbations: the reinsertion of a customer and that of a commodity into the IRP solution. We also derive a new lower bound based on a flow relaxation. In order to stimulate the research on large-scale IRP, we introduce a library of industrial instances. We benchmark our algorithms on these instances and make our code open source. Extensive numerical experiments highlight the relevance of each component of our LNS. Funding: This work was supported by Renault Group. Supplemental Material: The online appendix is available at https://doi.org/10.1287/trsc.2022.0342.},
+  keywords = {large neighborhood search,mathematical programming,Multi-attribute inventory routing problem},
+  arxiv = {2209.00412},
+  abbr = {Article},
+  code = {https://github.com/LouisBouvier/InventoryRoutingLNS.jl}
 }
 
