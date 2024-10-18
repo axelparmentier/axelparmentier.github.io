@@ -2,17 +2,26 @@
 - title: Post-doctoral fellows
   type: time_table
   contents:
+    - title: <a href="https://scholar.google.com/citations?user=ucJFESQAAAAJ&hl=it">Matteo Petris</a>
+      year: 2024-now
+      institution: Ecole des Ponts
+      description: 
+        - on a project with <a href="https://cermics.enpc.fr/~meuniefr/"> Frédéric Meunier </a>
     - title: <a href="https://prunett.github.io/">Thibault Prunet</a>
       year: 2024-now
       institution: Ecole des Ponts
     - title: <a href=https://ysu1028.github.io/>Yue Su</a>
-      year: 2023-now
+      year: 2023-2024
       institution: Ecole des Ponts
-      description: on a project with <a href="https://www.insead.edu/faculty/antoine-desir"> Antoine Désir </a>
+      description: 
+       - on a project with <a href="https://www.insead.edu/faculty/antoine-desir"> Antoine Désir </a>
+       - now a maitresse de conférence at <a href="https://www.univ-lille.fr/">Université de Lille</a>
     - title: <a href="https://www.researchgate.net/profile/Luca-Ferrarini-3">Luca Ferrarini</a>
-      year: 2023-now
+      year: 2023-2024
       institution: Ecole des Ponts
-      description: on a project with <a href="https://ivanaljubic.github.io/"> Ivana Ljubic </a>
+      description: 
+        - on a project with <a href="https://ivanaljubic.github.io/"> Ivana Ljubic </a>
+        - now a maitre de conférence at <a href="https://lipn.univ-paris13.fr/membre-perso/">Université Paris 13</a>
     - title: <a href="https://sites.google.com/view/tellacheneh/home">Nour Elhouda Tellache</a>
       year: 2019-2021
       institution: Ecole des Ponts - Air France
@@ -21,6 +30,14 @@
 - title: PhD students
   type: time_table
   contents:
+    - title:  <a href="https://germainvivierardisson.github.io/">Germain Vivier-Ardisson</a>
+      year: 2024-now
+      institution: Ecole des Ponts - Google DeepMind
+      description: supervised with <a href="https://mblondel.org/"> Mathieu Blondel </a>
+    - title: <a href="https://www.linkedin.com/in/sol%C3%A8ne-delannoy-pavy-817b16228"> Solène Delannoy Pavy </a>
+      year: 2024-now
+      institution: Ecole des Ponts - RTE
+      description: supervised with <a href="https://leclere.github.io/"> Vincent Leclère </a>
     - title: <a href="https://www.linkedin.com/in/mathis-brichet-5a613b200"> Mathis Brichet</a>
       year: 2023-now
       institution: Ecole des Ponts - Renault
