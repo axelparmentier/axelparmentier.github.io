@@ -4,7 +4,7 @@
     - name: Full Name
       value: Axel Parmentier
     - name: Family
-      value: Married, three children
+      value: Married, four children
     - name: Languages
       value: French, English
 
@@ -88,4 +88,4 @@
 - title: Other Interests
   type: list
   contents:
-    - parenting, non-fiction books, cycling, mountain hiking, ski touring
+    - Parenting, non-fiction books, cycling, mountain hiking, ski touring
