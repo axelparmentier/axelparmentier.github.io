@@ -50,6 +50,8 @@
     - title:  <a href="https://louisbouvier.github.io/"> Louis Bouvier</a>
       year: 2022-2024
       institution: École Nationale des Ponts et Chaussées - Renault
+      description:
+        - now a researcher at <a href="https://enpc.fr/">École Nationale des Ponts et Chaussées</a>
     - title:  <a href="https://conema.me/"> Emanuele Concas</a>
       description: supervised with <a href="https://lipn.univ-paris13.fr/~wolfler/">Roberto Wolfler Calvo</a>
       year: 2021-2025
