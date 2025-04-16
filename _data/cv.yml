@@ -11,8 +11,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher (position, since 2016) and Professor (title, since 2025)
+    - title: Researcher and Professor
       institution: <a href="https://cermics-lab.enpc.fr">CERMICS</a>, <a href="https://ecoledesponts.fr/">École Nationale des Ponts et Chaussées</a>, Champs sur Marne, France
+      description: [Researcher (position without teaching obligation) since 2016, Professor (professeur) since 2025, Assitant/Associate Professor (maître de conférence) 2018-2025]
       year: 2016-now
     - title: PostDoc
       institution: RWTH Aachen, Germany

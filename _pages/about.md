@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher at <a href='https://cermics-lab.enpc.fr/'>CERMICS, École Nationale des Ponts et Chaussées</a>
+subtitle: Researcher at <a href='https://cermics-lab.enpc.fr/'>CERMICS</a> and Professor <a href="https://ecoledesponts.fr/">École Nationale des Ponts et Chaussées</a>
 
 profile:
   align: right
