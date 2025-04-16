@@ -23,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a researcher and associate professor at Ecole des Ponts since 2016, where I have founded and hold the artificial intelligence for air transport chair with Air France. 
+I am a researcher and professor at École Nationale des Ponts et Chaussées, where I have founded and hold the artificial intelligence for air transport chair with Air France. 
 
 My research lies at the interplay of operations research and machine learning. I develop theoretical results and practically efficient algorithms for data-driven combinatorial optimization problems. I have a strong taste for industrial applications, notably in the fields of air transportation, supply chain, and predictive maintenance. 
 
