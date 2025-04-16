@@ -9,8 +9,8 @@ category: faq
 
 If you are a student at
 
-- Ecole des Ponts seeking a gap year internship,
-- Ecole des Ponts or MPRO seeking a M2 internship,
+- École Nationale des Ponts et Chaussées seeking a gap year internship,
+- École Nationale des Ponts et Chaussées or MPRO seeking a M2 internship,
 - Ecole Polytechnique seeking a 3A research internship,
 
 then directly write me an email with
@@ -23,6 +23,6 @@ then directly write me an email with
 - a transcript of your grades,
 - reference letters (if any).
 
-If you are one of my student, please be aware that I attach utmost importance to the grades you obtained in my exams, and how well you performed on the KIRO (Ecole des Ponts Operations Research Hackahton).
+If you are one of my student, please be aware that I attach utmost importance to the grades you obtained in my exams, and how well you performed on the KIRO (École Nationale des Ponts et Chaussées Operations Research Hackahton).
 
 I do not accept external internship applications, except if they come through colleagues I already know.

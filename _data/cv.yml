@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Researcher (position, since 2016) and Professor (title, since 2025)
-      institution: <a href="https://cermics-lab.enpc.fr">CERMICS</a>, <a href="https://ecoledesponts.fr/">Ecole des Ponts</a>, Champs sur Marne, France
+      institution: <a href="https://cermics-lab.enpc.fr">CERMICS</a>, <a href="https://ecoledesponts.fr/">École Nationale des Ponts et Chaussées</a>, Champs sur Marne, France
       year: 2016-now
     - title: PostDoc
       institution: RWTH Aachen, Germany
@@ -27,17 +27,17 @@
   type: time_table
   contents:
     - title: Habilitation à diriger des recherches (HDR)
-      institution: Ecole des Ponts, Université Paris Est, Champs sur Marne, France
+      institution: École Nationale des Ponts et Chaussées, Université Paris Est, Champs sur Marne, France
       year: 2024
       description: Some contributions at the crossroad of combinatorial optimization and machine learning
     - title: PhD
-      institution: Ecole des Ponts, Université Paris Est, Champs sur Marne, France
+      institution: École Nationale des Ponts et Chaussées, Université Paris Est, Champs sur Marne, France
       year: 2013-2016
       description:
         - Algorithms for shortest path and airline problems
         - Under the supervision of <a href="https://cermics.enpc.fr/~meuniefr/">Frédéric Meunier</a>
     - title: Master degree 
-      institution: <a href="https://uma.ensta-paris.fr/mpro/master2">MPRO</a> (Paris Master of Operations Research), Ecole des Ponts and Ecole Polytechnique, Paris, France
+      institution: <a href="https://uma.ensta-paris.fr/mpro/master2">MPRO</a> (Paris Master of Operations Research), École Nationale des Ponts et Chaussées and Ecole Polytechnique, Paris, France
       year: 2012-2013
     - title: <a href="https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program">Cycle polytechnicien</a>, Engineer and Master degree
       institution: Ecole Polytechnique, Palaiseau, France

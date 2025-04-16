@@ -13,7 +13,7 @@ Please proceed in the following order
 
 1. Look at the textbook (if any)
 2. Look at the slides (if any)
-3. Check on Educnet or teams (if at Ecole des Ponts)
+3. Check on Educnet or teams (if at École Nationale des Ponts et Chaussées)
 4. Check the emails sent to the group
 
 If the answer was nowhere

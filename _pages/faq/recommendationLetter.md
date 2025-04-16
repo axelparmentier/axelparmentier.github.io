@@ -18,7 +18,7 @@ Please email me with your request containing
     - what the university / employer seeks /values,
     - details about the curriculum you want to follow / position you want to obtain,
 - my courses you followed and the grades you obtained (if any),
-- your ranking at the KIRO (Ecole des Ponts' hackathon),
+- your ranking at the KIRO (École Nationale des Ponts et Chaussées' hackathon),
 - any other relevant information I should include.
 
 If I was not your group teacher, then

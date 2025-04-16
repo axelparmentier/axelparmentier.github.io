@@ -12,7 +12,7 @@ The aim of this workshop is to bring together experts from the machine learning 
 
 October 5th, 2023
 
-Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis building, Ecole des Ponts</a>
+Room B211, <a href="https://ecoledesponts.fr/en/getting-school">Coriolis building, École Nationale des Ponts et Chaussées</a>
 
 [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfSf2lDNsnoXGQJEYQXPN6o10_7nDAuGnq6o534S5ooeYaAgw/viewform?usp=sf_link) is free but mandatory. Only 30 participants will be accepted.
 

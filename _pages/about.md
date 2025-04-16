@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher at <a href='https://cermics-lab.enpc.fr/'>CERMICS, Ecole des Ponts</a>
+subtitle: Researcher at <a href='https://cermics-lab.enpc.fr/'>CERMICS, École Nationale des Ponts et Chaussées</a>
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>CERMICS</p>
-    <p> Ecole des Ponts</p>
+    <p> École Nationale des Ponts et Chaussées</p>
     <p>Coriolis building</p>
     <p>Office B213</p>
     <p>6 et 8 av Blaise Pascal</p>
