@@ -394,23 +394,21 @@
   abstract = {Some airlines use the preferential bidding system to construct the schedules of their pilots. In this system, the pilots bid on the different activities and the schedules that lexicographically maximize the scores of the pilots according to their seniority are selected. A sequential approach to solve this maximization problem is natural: The problem is first solved with the bids of the most senior pilot, and then it is solved with those of the second most senior without decreasing the score of the most senior, and so on. The literature admits that the structure of the problem somehow imposes such an approach. The problem can be modeled as an integer linear lexicographic program. We propose a new efficient method, which relies on column generation for solving its continuous relaxation and returns proven optimality gaps. To design this column generation, we prove that bounded linear lexicographic programs admit ``primal-dual'' feasible bases, and we show how to compute such bases efficiently. Another contribution on which our method relies is the extension of standard tools for resource-constrained longest path problems to their lexicographic versions. This is useful in our context because the generation of new columns is modeled as a lexicographic resource-constrained longest path problem. Numerical experiments show that this new method is already able to solve to proven optimality industrial instances provided by Air France, with up to 150 pilots. By adding a last ingredient in the resolution of the longest path problems, which exploits the specificity of the preferential bidding system, the method achieves for these instances computational times that are compatible with operational constraints. Supplemental Material: The online appendix is available at https://doi.org/10.1287/trsc.2022.0372.}
 }
 
-
-@misc{jungelLearningbasedOnlineOptimization2023,
-  title = {Learning-Based {{Online Optimization}} for {{Autonomous Mobility-on-Demand Fleet Control}}},
-  author = {Jungel, Kai and Parmentier, Axel and Schiffer, Maximilian and Vidal, Thibaut},
-  year = {2023},
-  month = feb,
-  number = {arXiv:2302.03963},
+@article{jungelLearningBasedOnlineOptimization2025,
+  title = {Learning-{{Based Online Optimization}} for {{Autonomous Mobility-on-Demand Fleet Control}}},
   arxiv = {2302.03963},
-  abbr = {Preprint},
-  eprinttype = {arxiv},
-  primaryclass = {cs, math},
-  publisher = {{arXiv}},
-  doi = {10.48550/arXiv.2302.03963},
-  abstract = {Autonomous mobility-on-demand systems are a viable alternative to mitigate many transportation-related externalities in cities, such as rising vehicle volumes in urban areas and transportation-related pollution. However, the success of these systems heavily depends on efficient and effective fleet control strategies. In this context, we study online control algorithms for autonomous mobility-on-demand systems and develop a novel hybrid combinatorial optimization enriched machine learning pipeline which learns online dispatching and rebalancing policies from optimal full-information solutions. We test our hybrid pipeline on large-scale real-world scenarios with different vehicle fleet sizes and various request densities. We show that our approach outperforms state-of-the-art greedy, and model-predictive control approaches with respect to various KPIs, e.g., by up to 17.1\% and on average by 6.3\% in terms of realized profit.},
-  archiveprefix = {arXiv},
-  keywords = {Computer Science - Machine Learning,Mathematics - Optimization and Control},
-  file = {/home/axel/zotero-library/Jungel et al_2023_Learning-based Online Optimization for Autonomous Mobility-on-Demand Fleet.pdf;/home/axel/snap/zotero-snap/common/Zotero/storage/6DL2DNC7/2302.html}
+  author = {Jungel, Kai and Parmentier, Axel and Schiffer, Maximilian and Vidal, Thibaut},
+  year = {2025},
+  month = jun,
+  journal = {INFORMS Journal on Computing},
+  code = {https://github.com/INFORMSJoC/2024.0637},
+  publisher = {INFORMS},
+  issn = {1091-9856},
+  doi = {10.1287/ijoc.2024.0637},
+  abbr = {Journal},
+  urldate = {2025-06-10},
+  abstract = {Autonomous mobility-on-demand systems are a viable alternative to mitigate many transportation-related externalities in cities, such as rising vehicle volumes in urban areas and transportation-related pollution. However, the success of these systems heavily depends on efficient and effective fleet control strategies. In this context, we study online control algorithms for autonomous mobility-on-demand systems and develop a novel hybrid combinatorial optimization-enriched machine learning pipeline which learns online dispatching and rebalancing policies from optimal full-information solutions. We test our hybrid pipeline on large-scale real-world scenarios with different vehicle fleet sizes and various request densities. We show that our pipeline outperforms greedy and model-predictive control approaches with respect to various key performance indicators (KPIs), for example, by up to 17.1\% and on average by 6.3\% in terms of realized profit, and on average by 4.7\% in terms of satisfied customers. History: Accepted by Andrea Lodi, Area Editor for Design \& Analysis of Algorithms--Discrete. Funding: This work was supported by Deutsche Forschungsgemeinschaft [Grant 449261765]. Supplemental Material: The software that supports the findings of this study is available within the paper and its Supplemental Information (https://pubsonline.informs.org/doi/suppl/10.1287/ijoc.2024.0637) as well as from the IJOC GitHub software repository (https://github.com/INFORMSJoC/2024.0637). The complete IJOC Software and Data Repository is available at https://informsjoc.github.io/.},
+  keywords = {central control,mobility-on-demand,online algorithm,structured learning},
 }
 
 @article{ahmedDistrictNetDecisionawareLearning2024,
