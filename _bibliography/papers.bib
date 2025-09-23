@@ -93,6 +93,24 @@
       This paper introduces a novel approach to contextual stochastic optimization, integrating operations research and machine learning to address decision-making under uncertainty. Traditional methods often fail to leverage contextual information, which underscores the necessity for new algorithms. In this study, we utilize neural networks with combinatorial optimization layers to encode policies. Our goal is to minimize the empirical risk, which is estimated from past data on uncertain parameters and contexts. To that end, we present a surrogate learning problem and a generic primal-dual algorithm that is applicable to various combinatorial settings in stochastic optimization. Our approach extends classic Fenchel-Young loss results and introduces a new regularization method using sparse perturbations on the distribution simplex. This allows for tractable updates in the original space and can accommodate diverse objective functions. We demonstrate the linear convergence of our algorithm under certain conditions and provide a bound on the non-optimality of the resulting policy in terms of the empirical risk. Experiments on a contextual stochastic minimum weight spanning tree problem show that our algorithm is efficient and scalable, achieving performance comparable to imitation learning of solutions computed using an expensive Lagrangian-based heuristic.} 
 }
 
+@misc{brichetOptimizingWorldwideScaleShipper2025,
+  title = {Optimizing a {{Worldwide-Scale Shipper Transportation Planning}} in a {{Carmaker Inbound Supply Chain}}},
+  author = {Brichet, Mathis and Schiffer, Maximilian and Parmentier, Axel},
+  year = {2025},
+  month = sep,
+  number = {arXiv:2509.07576},
+  arxiv = {2509.07576},
+  abbr = {Preprint},
+  primaryclass = {math},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2509.07576},
+  urldate = {2025-09-23},
+  abstract = {We study the shipper-side design of large-scale inbound transportation networks, motivated by Renault's global supply chain. We introduce the Shipper Transportation Design Problem, which integrates consolidation, routing, and regularity constraints, and propose a tailored Iterated Local Search (ILS) metaheuristic. The algorithm combines large-neighborhood search with MILP-based perturbations and exploits bundle-specific decompositions and giant container bounds to obtain scalable lower bounds and effective benchmarks. Computational experiments on real industrial data show that the ILS achieves an average gap of 7.9\% to the best available lower bound on world-scale instances with more than 700,000 commodities and 1,200,000 arcs, delivering solutions showing a potential of 23.2\% cost reduction compared to the Renault-based benchmark. To our knowledge, this is the first approach to solve shipper-side transportation design problems at such scale. Our analysis further yields managerial insights: accurate bin-packing models are essential for realistic consolidation, highly regular plans offer the best balance between cost and operational stability, and outsourcing is only attractive in low-volume contexts, while large-scale networks benefit from in-house planning.},
+  archiveprefix = {arXiv}
+}
+
+
+
 @misc{vivier-ardissonLearningLocalSearch2025,
   title = {Learning with {{Local Search MCMC Layers}}},
   author = {{Vivier-Ardisson}, Germain and Blondel, Mathieu and Parmentier, Axel},
