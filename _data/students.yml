@@ -30,6 +30,9 @@
 - title: PhD students
   type: time_table
   contents:
+    - title: <a href="https://fr.linkedin.com/in/nicolas-corvol">Nicolas Corvol</a>
+      year: 2025-now
+      institution: École Nationale des Ponts et Chaussées - Renault
     - title:  <a href="https://germainvivierardisson.github.io/">Germain Vivier-Ardisson</a>
       year: 2024-now
       institution: École Nationale des Ponts et Chaussées - Google DeepMind
@@ -82,6 +85,8 @@
 - title: MSc students
   type: time_table
   contents:
+    - title: <a href="https://fr.linkedin.com/in/nicolas-corvol">Nicolas Corvol</a>
+      year: 2025
     - title: <a href="https://germainvivierardisson.github.io/">Germain Vivier-Ardisson</a>
       year: 2024
     - title: Letizia Moro
