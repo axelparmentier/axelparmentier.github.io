@@ -59,6 +59,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - <a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Transportation-Science-and-Logistics-Section/Best-Paper-Award">Transportation Science Logistics & Routing Paper of the Year</a> for <a href="https://pubsonline.informs.org/doi/10.1287/trsc.2023.0107">this paper</a>
     - year: 2024
       items: 
         - Finalist of the <a href="https://www.euro-online.org/web/pages/1726/eepa-finalists-2024">EURO excellence in practice award</a> for a project at Renault. With Louis Bouvier, Guillaume Dalle and Thaddeus Leonard
@@ -75,6 +78,12 @@
 - title: Honors and awards won by students under my supervision
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - Louis Bouvier won the AMIES PhD prize, 3rd best PhD in applied mathematics for the industry by the French agency for mathematics related to industry and society.
+        - Louis Bouvier won the Best PhD dissertation in transport and logistics in Europe (VeRoLog Doctoral Dissertation Prize), co-recipient.
+        - Louis Bouvier won the Best PhD in transport and logistics in France, first prize.
+
     - year: 2023
       items: 
         - Guillaume Dalle won the <a href="https://www.agence-maths-entreprises.fr/public/pages/activities/prix-de-these/prix2these-2023.html">AMIES PhD award</a>, 1st prize (best PhD in applied mathematics for the industry by the French agency for mathematics related to industry and society)
