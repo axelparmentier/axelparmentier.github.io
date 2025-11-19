@@ -7,8 +7,8 @@ dropdown: true
 children: 
     - title: Repositories
       permalink: /repositories/
-    - title: Teaching
-      permalink: /teaching/
+    # - title: Teaching
+    #   permalink: /teaching/
     # - title: divider
     # - title: Events
     #   permalink: /events/
