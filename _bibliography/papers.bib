@@ -128,25 +128,23 @@
   keywords = {Computer Science - Machine Learning}
 }
 
-@misc{hoppeStructuredReinforcementLearning2025,
+@article{hoppeStructuredReinforcementLearning2025,
   title = {Structured {{Reinforcement Learning}} for {{Combinatorial Decision-Making}}},
   author = {Hoppe, Heiko and Baty, L{\'e}o and Bouvier, Louis and Parmentier, Axel and Schiffer, Maximilian},
   year = {2025},
-  month = may,
+  journal={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  month = dec,
   number = {arXiv:2505.19053},
-  abbr = {Preprint},
+  abbr = {Proceedings},
   arxiv = {2505.19053},
   primaryclass = {cs},
   publisher = {arXiv},
-  doi = {10.48550/arXiv.2505.19053},
-  urldate = {2025-05-27},
+  pdf={https://openreview.net/forum?id=GS9o7u5njS},
   code = {https://github.com/tumBAIS/Structured-RL},
   abstract = {Reinforcement learning (RL) is increasingly applied to real-world problems involving complex and structured decisions, such as routing, scheduling, and assortment planning. These settings challenge standard RL algorithms, which struggle to scale, generalize, and exploit structure in the presence of combinatorial action spaces. We propose Structured Reinforcement Learning (SRL), a novel actor-critic framework that embeds combinatorial optimization layers into the actor neural network. We enable end-to-end learning of the actor via Fenchel-Young losses and provide a geometric interpretation of SRL as a primal-dual algorithm in the dual of the moment polytope. Across six environments with exogenous and endogenous uncertainty, SRL matches or surpasses the performance of unstructured RL and imitation learning on static tasks and improves over these baselines by up to 92\% on dynamic problems, with improved stability and convergence speed.},
   archiveprefix = {arXiv},
   keywords = {Computer Science - Machine Learning,Mathematics - Optimization and Control,Statistics - Machine Learning}
 }
-
-
 
 @misc{nouliPreferenceawareCompensationPolicies2025,
   title = {Preference-Aware Compensation Policies for Crowdsourced on-Demand Services},
@@ -343,20 +341,22 @@
   archiveprefix = {arXiv}
 }
 
-
 @article{parmentierLearningStructuredApproximations2023,
   title = {Learning Structured Approximations of Combinatorial Optimization Problems},
   author = {Parmentier, Axel},
+  journal = {Open Journal of Mathematical Optimization},
+  eid = {10},
+  pages = {1--27},
   year = {2025},
-  month = jun,
+  month = dec,
+  publisher = {Universit\'e de Montpellier},
+  volume = {6},
+  doi = {10.5802/ojmo.43},
+  language = {en},
+  url = {https://ojmo.centre-mersenne.org/articles/10.5802/ojmo.43/},
   code = {https://github.com/axelparmentier/MaximumWeightTwoStageSpanningTree.jl},
-  journal = {Open Journal Of Mathematical Optimization, in press},
   abbr = {Article},
-  number = {arXiv:2107.04323},
   arxiv = {2107.04323},
-  eprinttype = {arxiv},
-  primaryclass = {cs, math},
-  publisher = {{arXiv}},
   abstract = {Machine learning pipelines that include a combinatorial optimization layer can give surprisingly efficient heuristics for difficult combinatorial optimization problems. Three questions remain open: which architecture should be used, how should the parameters of the machine learning model be learned, and what performance guarantees can we expect from the resulting algorithms? Following the intuitions of geometric deep learning, we explain why equivariant layers should be used when designing such pipelines, and illustrate how to build such layers on routing, scheduling, and network design applications. We introduce a learning approach that enables to learn such pipelines when the training set contains only instances of the difficult optimization problem and not their optimal solutions, and show its numerical performance on our three applications. Finally, using tools from statistical learning theory, we prove a theorem showing the convergence speed of the estimator. As a corollary, we obtain that, if an approximation algorithm can be encoded by the pipeline for some parametrization, then the learned pipeline will retain the approximation ratio guarantee. On our network design problem, our machine learning pipeline has the approximation ratio guarantee of the best approximation algorithm known and the numerical efficiency of the best heuristic.},
   archiveprefix = {arXiv},
   keywords = {Computer Science - Robotics,Mathematics - Optimization and Control}
