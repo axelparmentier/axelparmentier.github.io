@@ -1,9 +1,0 @@
-github_users:
-  - axelparmentier
-
-github_repos:
-  - axelparmentier/InferOpt.jl
-  - axelparmentier/ElectricalVSP-ColumnGeneration
-  - vidalt/OCEAN
-  - axelparmentier/MinimumWeightTwoStageSpanningTree.jl
-
