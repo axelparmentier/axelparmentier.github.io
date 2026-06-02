@@ -8,8 +8,10 @@
       description: 
         - on a project with <a href="https://cermics.enpc.fr/~meuniefr/"> Frédéric Meunier </a>
     - title: <a href="https://prunett.github.io/">Thibault Prunet</a>
-      year: 2024-now
+      year: 2024-2025
       institution: École Nationale des Ponts et Chaussées
+      description:
+        - now a maitre de conférence at University of Bordeaux
     - title: <a href=https://ysu1028.github.io/>Yue Su</a>
       year: 2023-2024
       institution: École Nationale des Ponts et Chaussées
@@ -30,6 +32,20 @@
 - title: PhD students
   type: time_table
   contents:
+    - title: Clotilde Cantini
+      year: 2026-now
+      institution: École Nationale des Ponts et Chaussées - Air France
+      description: supervised with Pierre-Cyril Aubin Frankowski
+    - title: Simeon Schaub
+      year: 2026-now
+      institution: École Nationale des Ponts et Chaussées
+      description: supervised with Guillaume Dalle
+    - title: Joachim Eimery
+      year: 2026-now
+      institution: University of Bordeaux
+      description:
+        - funded by ACME project
+        - François Clautiaux is the main superviser
     - title: <a href="https://nicolascorvol.github.io/">Nicolas Corvol</a>
       year: 2025-now
       institution: École Nationale des Ponts et Chaussées - Renault
@@ -88,6 +104,23 @@
 - title: MSc students
   type: time_table
   contents:
+    - title: Marcos Tirador
+      institution: Air Liquide
+      year: 2026
+      description: 
+        - MVA internship
+        - supervised with Rodrigue Foukouop
+    - title: Gilles Fevry
+      year: 2026
+      description: 
+        - supervised with Pierre Cyril Aubin Frankowski
+        - MVA internship
+    - title: Samy Meziane
+      year: 2026
+    - title: Oscar Pécoud-Gatti
+      year: 2026
+      description:
+        - funded by PGMO
     - title: <a href="https://nicolascorvol.github.io/">Nicolas Corvol</a>
       year: 2025
     - title: <a href="https://germainvivierardisson.github.io/">Germain Vivier-Ardisson</a>
