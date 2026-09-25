@@ -109,23 +109,20 @@
   archiveprefix = {arXiv}
 }
 
-
-
-@misc{vivier-ardissonLearningLocalSearch2025,
-  title = {Learning with {{Local Search MCMC Layers}}},
-  author = {{Vivier-Ardisson}, Germain and Blondel, Mathieu and Parmentier, Axel},
-  year = {2025},
-  month = may,
-  number = {arXiv:2505.14240},
-  abbr = {Preprint},
+@article{
+  vivier-ardisson2026learning,
+  title={Learning with Local Search {MCMC} Layers},
+  author={Germain Vivier-Ardisson and Mathieu Blondel and Axel Parmentier},
+  journal={Transactions on Machine Learning Research, Featured Certification, J2C Certification},
+  month = {aug},
+  issn={2835-8856},
+  year={2026},
+  html={https://openreview.net/forum?id=M2a0mbACNf},
   arxiv = {2505.14240},
-  primaryclass = {cs},
-  publisher = {arXiv},
-  doi = {10.48550/arXiv.2505.14240},
-  urldate = {2025-05-21},
-  abstract = {Integrating combinatorial optimization layers into neural networks has recently attracted significant research interest. However, many existing approaches lack theoretical guarantees or fail to perform adequately when relying on inexact solvers. This is a critical limitation, as many operations research problems are NP-hard, often necessitating the use of neighborhood-based local search heuristics. These heuristics iteratively generate and evaluate candidate solutions based on an acceptance rule. In this paper, we introduce a theoretically-principled approach for learning with such inexact combinatorial solvers. Inspired by the connection between simulated annealing and Metropolis-Hastings, we propose to transform problem-specific neighborhood systems used in local search heuristics into proposal distributions, implementing MCMC on the combinatorial space of feasible solutions. This allows us to construct differentiable combinatorial layers and associated loss functions. Replacing an exact solver by a local search strongly reduces the computational burden of learning on many applications. We demonstrate our approach on a large-scale dynamic vehicle routing problem with time windows.},
-  archiveprefix = {arXiv},
-  keywords = {Computer Science - Machine Learning}
+  abbr = {Article},
+  abstract = {Integrating combinatorial optimization layers into neural networks has recently attracted significant research interest. However, many existing approaches lack theoretical guarantees or fail to perform adequately when relying on inexact solvers. This is a critical limitation, as many operations research problems are NP-hard, often necessitating the use of neighborhood-based local search heuristics. These heuristics iteratively generate and evaluate candidate solutions based on an acceptance rule. In this paper, we introduce a theoretically-principled approach for learning with such inexact combinatorial solvers. Inspired by the connection between simulated annealing and Metropolis-Hastings, we propose to transform problem-specific neighborhood systems used in local search heuristics into proposal distributions, implementing MCMC on the combinatorial space of feasible solutions. This allows us to construct differentiable combinatorial layers and associated loss functions. Replacing an exact solver by a local search strongly reduces the computational burden of learning on many applications. We demonstrate our approach on a large-scale dynamic vehicle routing problem with time windows.
+  },
+  note={Featured Certification, J2C Certification}
 }
 
 @article{hoppeStructuredReinforcementLearning2025,
@@ -162,6 +159,7 @@
   archiveprefix = {arXiv},
   keywords = {Mathematics - Optimization and Control}
 }
+
 
 @misc{vivier-ardissonRegularizedLargeNeighborhood2026,
   title = {Regularized {{Large Neighborhood Search}}},
@@ -392,12 +390,26 @@
   annotation = {ZSCC: NoCitationData[s0]},
 }
 
-@misc{aubin-frankowskiGeneralizationBoundsSurrogate2024,
+@misc{su2026scalabledynamicpricingsubstitutable,
+      title={Scalable Dynamic Pricing of Substitutable Products through Structure-Guided Policy Learning}, 
+      author={Yue Su and Antoine Désir and Axel Parmentier},
+      year={2026},
+      month={sep},
+      arxiv={2609.24605},
+      abbr={Preprint},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      abstract = {Problem definition: We study dynamic pricing of substitutable products with finite, product-specific inventories. Customer substitution couples pricing decisions across products, while the inventory state makes exact dynamic programming intractable at realistic scale. Methodology / results: We develop two MNL-guided policy-learning approaches that replace the dynamic program with a statistical mapping from inventory states to pricing decisions. The first learns prices directly, while the second learns inventory opportunity costs and converts them into prices using the optimal MNL pricing rule. Both policies are trained using decision-focused learning. We also propose an efficient method to generate anticipative customer-choice targets to train our policies. Managerial implications: We conduct an extensive numerical evaluation of our approaches. On small instances for which the optimal dynamic program can be computed, the learned policies achieve average optimality gaps below 0.4\%. On larger airline-motivated instances, they consistently improve on the tested revenue-management benchmarks. The comparison between the two architectures also highlights the role of model structure: using the MNL pricing characterization is particularly effective when demand is well described by MNL, while directly learning prices provides greater flexibility under heterogeneous mixed-MNL demand.},
+      url={https://arxiv.org/abs/2609.24605}
+}
+
+@article{aubin-frankowskiGeneralizationBoundsSurrogate2024,
   title = {Generalization {{Bounds}} of {{Surrogate Policies}} for {{Combinatorial Optimization Problems}}},
   author = {{Aubin-Frankowski}, Pierre-Cyril and De Castro, Yohann and Parmentier, Axel and Rudi, Alessandro},
-  year = {2024},
-  month = jul,
-  abbr = {Preprint},
+  year = {2026},
+  journal = {Accepted in SIAM Journal on Optimization},
+  month = sep,
+  abbr = {Article},
   number = {arXiv:2407.17200},
   arxiv = {2407.17200},
   primaryclass = {cs, math, stat},
